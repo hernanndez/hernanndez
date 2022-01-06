@@ -1,0 +1,7 @@
+echo "# hernanndez" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "primer compromiso" 
+git branch -M main 
+git remote agregar origen git@github.com: hernanndez / hernanndez.git
+ git push -u origin principal
